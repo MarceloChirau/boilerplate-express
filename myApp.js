@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express("Hello World");
-console.log(app);
+console.log("HELLO WORLD")
 module.exports=app;
 
 
